@@ -1,7 +1,8 @@
 # RabbitMQ
-RabbitMQ
+Learn RabbitMQ
 
 What is RabbitMQ?
+
 RabbitMQ is an open source and cross-platform message broker which Implements AMQP protocol and is lightweight and easy to deploy on-premises or in the cloud. It is built on Erlang which is also used by WhatsApp for messaging.RabbitMQ provides a way to exchange data between applications such as a message sent a Node.js application, or Java application can read the from.Net application.
 
 Book  to Learn RabbitMQ :- https://bpbonline.com/products/learning-rabbitmq-with-c
