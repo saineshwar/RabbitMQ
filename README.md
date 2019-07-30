@@ -1,5 +1,4 @@
-# RabbitMQ
-Learn RabbitMQ
+# Learn RabbitMQ
 
 What is RabbitMQ?
 
